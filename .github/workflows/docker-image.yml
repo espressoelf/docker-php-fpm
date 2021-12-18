@@ -27,5 +27,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: aphy7/php-fpm:7.4.24,aphy7/php-fpm:latest
+          tags: aphy7/php-fpm:7.4.27,aphy7/php-fpm:latest
           platforms: linux/amd64
